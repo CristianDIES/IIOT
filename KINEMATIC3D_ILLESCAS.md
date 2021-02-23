@@ -7,16 +7,16 @@ Se detalla a continuación el paso a paso para usar el software Kinematic3D inst
   * cosas cosas
     * otras cosas
     
-| | Descripción | Código | Docs |
-|-|:------------|:----:|:----:|
-|boost | ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|Dongle| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|Eigen| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|FARO64| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|PCL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|scintilla| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|VTK| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|WTL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  | | Descripción | Código | Docs |
+  |-|:------------|:----:|:----:|
+  |boost | ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |Dongle| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |Eigen| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |FARO64| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |PCL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |scintilla| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |VTK| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+  |WTL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
 
 
 | | |
