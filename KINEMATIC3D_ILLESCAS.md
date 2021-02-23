@@ -6,8 +6,8 @@ Se detalla a continuación el paso a paso para usar el software Kinematic3D inst
 
 | | Descripción | Código | Docs |
 |-|:------------|:----:|:----:|
-|boost | ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
-|Dongle| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
+|boost | ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+|Dongle| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
 |Eigen| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
 |FARO64| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
 |PCL| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
