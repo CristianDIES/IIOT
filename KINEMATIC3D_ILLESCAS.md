@@ -4,16 +4,16 @@ Se detalla a continuación el paso a paso para usar el software Kinematic3D inst
 1. Descargar el proyecto `K3D_DIM-ILL` - [Download Solution](https://dev.azure.com/AritexSoftware/_git/K3D_DIM-ILL)
 1. Descargar la carpeta de librerías externas necesarias para la compilación del proyecto. Se deberán ubicar en D:\PlatformSDK - [Download] 
 
-| | Descripción | Código | Docs |
-|-|:------------|:----:|:----:|
-|boost | ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|Dongle| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|Eigen| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|FARO64| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|PCL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|scintilla| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|VTK| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
-|WTL| ToDO |:white_check_mark:|:negative_squared_cross_mark:|
+      | | Descripción | Código | Docs |
+      |-|:------------|:----:|:----:|
+      |boost | ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |Dongle| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |Eigen| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |FARO64| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |PCL| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |scintilla| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |VTK| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
+      |WTL| ToDo |:white_check_mark:|:negative_squared_cross_mark:|
 
 4. Abrir la solución `D:\K3D_DIM-ILL\Kinematic3D.sln` y compilarla
 1. Para lanzar el ejecutable (`D:\K3D_DIM-ILL\bin-x64\K3D-64.exe`) será necesario:
