@@ -1,10 +1,10 @@
 # KINEMATIC3D_ILLESCAS
 A continuación se detallan las dependencias para compilar primero y para ejecutarlo después.
 
-| | | | | |
-|-|-|-|-|-|
+| | |
+|-|-|
 |[**Compilación**](#compilación) |[**Ejecución**](#ejecución) |
-| | | | | |
+| | |
 
 ## [Compilación]
 | | Descripción | Código | Docs |
@@ -18,7 +18,7 @@ A continuación se detallan las dependencias para compilar primero y para ejecut
 |ESP32_Fabrica_MQTT.ino | Código en formato Arduino IDE |[:white_check_mark:]|:negative_squared_cross_mark:|
 |planta.json| Dashboard Node-Red en formato json |[:white_check_mark:]|:negative_squared_cross_mark:|
 
-[[Go to top]](#KINEMATIC3D_ILLESCAS)
+
 
 
 ## Software
@@ -26,3 +26,4 @@ A continuación se detallan las dependencias para compilar primero y para ejecut
 - Python 2.7.12 - [Download](https://www.python.org/downloads/release/python-2712/)
 - Visual Studio Code - [Download](https://code.visualstudio.com/)
 
+[[Go to top]](#KINEMATIC3D_ILLESCAS)
