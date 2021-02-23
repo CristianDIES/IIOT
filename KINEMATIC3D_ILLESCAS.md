@@ -3,6 +3,7 @@ Se detalla a continuación el paso a paso para usar el software Kinematic3D inst
 1. Instalar el software necesario para la funcionalidad completa de la solución - [Download Software](#Software)
 2. Descargar el proyecto K3D_DIM-ILL - [Download Solution](https://dev.azure.com/AritexSoftware/_git/K3D_DIM-ILL)
 3. Descargar la carpeta de librerías externas necesarias para la compilación del proyecto. Se deberán ubicar en D:\PlatformSDK - [Download] 
+
 | | Descripción | Código | Docs |
 |-|:------------|:----:|:----:|
 |boost | ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
@@ -12,7 +13,7 @@ Se detalla a continuación el paso a paso para usar el software Kinematic3D inst
 |PCL| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
 |scintilla| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
 |VTK| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
-|WTL| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:
+|WTL| ToDO |[:white_check_mark:]|:negative_squared_cross_mark:|
 
 
 | | |
