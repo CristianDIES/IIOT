@@ -1,7 +1,7 @@
 # KINEMATIC3D_ILLESCAS
 Se detalla a continuación el paso a paso para usar el software Kinematic3D instalado en el proyecto DIC-WLC A350 de Airbus Illescas.
 1. Descargar el proyecto K3D_DIM-ILL - [Download](https://dev.azure.com/AritexSoftware/_git/K3D_DIM-ILL)
-2. Instalar el software necesario para la funcionalidad completa de la solución - [**Compilación**](#compilación)
+2. Instalar el software necesario para la funcionalidad completa de la solución - [Download Software](#Software)
 3. 
 
 
